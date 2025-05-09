@@ -1,4 +1,4 @@
-# Hangman Game
+# CPSC329 : Software Development Final Project - Hangman Game
 
 ## Description
 A networked Hangman game with client-server architecture implementing the classic word guessing game with visual hangman drawing.
