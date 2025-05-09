@@ -1,0 +1,13 @@
+<GAME>
+<Guesses>
+5
+</Guesses>
+<SERVER>
+<PortNumber>
+32007
+</PortNumber>
+<HostName>
+localhost
+</HostName>
+</SERVER>
+</GAME>
